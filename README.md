@@ -39,9 +39,17 @@ No [curso](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos) e
 
 ### Desktop Layout
 
+**Width 1440px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/aluraplay-1440px.jpg
+
 ### Tablet Layout
 
+**Width 768px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/aluraplay-768px.jpg
+
 ### Mobile Layout
+
+**Width 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/aluraplay-480px.jpg
+
+Obs.: As prints retiradas do site não são compativeis com o valor de propriedade "fixed", por isso ocorreu alguns problemas de visualização.
 
 ## Autor
 
